@@ -1,0 +1,122 @@
+[
+  {
+    "plataform": "Steam",
+    "game": "Dota 2",
+    "player": "PGA",
+    "top10heroes": [
+      {
+      "name": "DEATH PROPHET",
+      "attribute": "INTELLIGENCE",
+      "attack": "RANGED",
+      "abilities": [
+        "CRYPT SWARM",
+        "SILENCE",
+        "SPIRIT SIPHON",
+        "EXORCISM"
+      ]
+    },
+    {
+      "name": "WEAVER",
+      "attribute": "AGILITY",
+      "attack": "RANGED",
+      "abilities": [
+        "THE SWARM",
+        "SHUKUCHI",
+        "GEMINATE ATTACK",
+        "TIME LAPSE"
+      ]
+    },
+    {
+      "name": "LION",
+      "attribute": "INTELLIGENCE",
+      "attack": "RANGED",
+      "abilities": [
+        "EARTH SPIKE",
+        "HEX",
+        "MANA DRAIN",
+        "FINGER OF DEATH"
+      ]
+    },
+    {
+      "name": "PHANTOM ASSASSIN",
+      "attribute": "AGILITY",
+      "attack": "MELEE",
+      "abilities": [
+        "STIFLING DAGGER",
+        "PHANTOM STRIKE",
+        "BLUR",
+        "COUP DE GRACE",
+        "FAN OF KNIVES"
+      ]
+    },
+    {
+      "name": "SNIPER",
+      "attribute": "AGILITY",
+      "attack": "RANGED",
+      "abilities": [
+        "SHRAPNEL",
+        "HEADSHOT",
+        "TAKE AIM",
+        "ASSASSINATE",
+        "CONCUSSIVE GRENADE"
+      ]
+    },
+    {
+      "name": "VIPER",
+      "attribute": "AGILITY",
+      "attack": "RANGED",
+      "abilities": [
+        "POISON ATTACK",
+        "NETHERTOXIN",
+        "CORROSIVE SKIN",
+        "VIPER STRIKE"
+      ]
+    },
+    {
+      "name": "AXE",
+      "attribute": "STRENGTH",
+      "attack": "MELEE",
+      "abilities": [
+        "BERSERKERS CALL",
+        "BATTLE HUNGER",
+        "COUNTER HELIX",
+        "CULLING BLADE"
+      ]
+    },
+    {
+      "name": "LIFESTEALER",
+      "attribute": "STRENGTH",
+      "attack": "MELEE",
+      "abilities": [
+        "RAGE",
+        "FEAST",
+        "GHOUL FRENZY",
+        "INFEST",
+        "OPEN WOUNDS"
+      ]
+    },
+    {
+      "name": "LEGION COMMANDER",
+      "attribute": "STRENGTH",
+      "attack": "MELEE",
+      "abilities": [
+        "OVERWHELMING ODDS",
+        "PRESS THE ATTACK",
+        "MOMENT OF COURAGE",
+        "DUEL"
+      ]
+    },
+    {
+      "name": "SHADOW SHAMAN",
+      "attribute": "INTELLIGENCE",
+      "attack": "RANGED",
+      "abilities": [
+        "ETHER SHOCK",
+        "HEX",
+        "SHACKLES",
+        "MASS SERPENT WARD"
+      ]
+    }
+  ]
+  }
+]
