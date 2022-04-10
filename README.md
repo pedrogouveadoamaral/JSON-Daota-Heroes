@@ -1,1 +1,1 @@
-# JSON-Daota-Heroes
+# JSON-Dota-Heroes
